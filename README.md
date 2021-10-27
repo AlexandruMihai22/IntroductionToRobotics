@@ -12,7 +12,9 @@ Control an RGB LED using 3 potentiometers
 4. wires
 
 ### Setup
-<img src="Homework_1/RGB1.jpeg" width= "200" >
+<img src="Homework_1/RGB1.jpeg" width= "400" >
+
+<img src="Homework_1/RGB1.jpeg" width= "400" >
 
 ### Video
 You can find a demo at: https://www.youtube.com/shorts/NxNfzfaFPoc
