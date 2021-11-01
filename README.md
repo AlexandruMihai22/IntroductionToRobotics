@@ -1,6 +1,9 @@
 # IntroductionToRobotics (2021 - 2022)
 Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code and image files.
-## Homework 1
+
+<details open>
+  <summary>Homework 1</summary>
+<br>
 
 ### Components
 
@@ -20,7 +23,7 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
 
-
+</details>
 
 ## Homework 2
 
