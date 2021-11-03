@@ -41,6 +41,11 @@ The system has the following states:
 4. State 4(initiated after state 3 ends):  red for cars,blinking greenfor people and a beeping sound from the buzzer, at a constant inter-val, faster than the beeping in state 3.
 
 ### Setup
+
+<img src="Homework_2/TrafficLights1.jpeg" width= "500" >
+
+<img src="Homework_2/TrafficLights2.jpeg" width= "500" >
+
 You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_2/Homework_2.ino)
 
 ### Video
