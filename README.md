@@ -13,7 +13,8 @@ RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic)
 Use a separat potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control must be done with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led.
 
 ### Setup
-<img src="Homework_1/RGB1.jpeg" width= "500" >
+
+<img src="Homework_1/RGB1.jpeg" width= 50% height: auto >
 
 <img src="Homework_1/RGB2.jpeg" width= "500" >
 
