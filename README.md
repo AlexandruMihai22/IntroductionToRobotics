@@ -32,7 +32,7 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
 
 ### Technical Task
 
-Building  the  traffic  lights  for  a  crosswalk.   Youwill use 2 LEDs to represent the traffic lights for people (red and green)and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
+Building  the  traffic  lights  for  a  crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
 
 The system has the following states:
 1. State 1(default, reinstated after state 4 ends):  green light for cars,red  light  for  people,  no  sounds.   Duration:  indefinite,  changed  bypressing the button.
@@ -50,3 +50,27 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
+
+<br>
+
+## Homework 3
+
+### Components
+
+buzzer, 7-segment display, resistors and wires (per logic)
+
+### Technical Task
+
+Build a ghost detector. Should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET - AKA NU-L BAGATI IN PRIZA). It should print the value on the 7-segment display and should make a sound based on the intensity.
+
+### Setup
+
+<img src="Homework_3/1.jpeg" width= "500" >
+
+<img src="Homework_3/2.jpeg" width= "500" >
+
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_3/Homework_3.ino)
+
+### Video
+You can find a demo at: [youtube]()
+
