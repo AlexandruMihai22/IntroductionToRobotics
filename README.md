@@ -54,7 +54,8 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
 
 <br>
 
-## Homework 3
+<details>
+  <summary> <h2> Homework 3 </h2> </summary>
 
 ### Components
 
@@ -65,7 +66,7 @@ buzzer, 7-segment display, resistors and wires (per logic)
 Build a ghost detector. Should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET - AKA NU-L BAGATI IN PRIZA). It should print the value on the 7-segment display and should make a sound based on the intensity.
 
 ### Setup
-
+  
 <img src="Homework_3/1.jpeg" width= 50% height: auto >
 
 <img src="Homework_3/2.jpeg" width= 50% height: auto >
@@ -74,4 +75,4 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 
 ### Video
 You can find a demo at: [youtube]()
-
+</details>
