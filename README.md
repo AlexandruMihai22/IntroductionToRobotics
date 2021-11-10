@@ -25,7 +25,7 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
 
- </details?
+ </details>
   
 <br>
 
