@@ -3,7 +3,9 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 
 
 ## Homework 1
-
+<details>
+ <summary> See details </summary>
+ 
 ### Components
 
 RBG led (1 minimum), potentiometers (3 minimum), resistors and wires (per logic).
@@ -23,10 +25,15 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
 
+ </details?
+  
 <br>
 
 ## Homework 2
 
+ <details>
+ <summary> See details </summary>
+  
 ### Components
 
 5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
@@ -52,11 +59,14 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
 
+ </details>
+ 
 <br>
 
 ## Homework 3
-<details>
- <summary>See details</summary>
+ 
+ <details>
+ <summary> See details </summary>
 
 ### Components
 
