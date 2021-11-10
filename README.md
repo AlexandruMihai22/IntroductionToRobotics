@@ -83,5 +83,5 @@ Build a ghost detector. Should detect EMF (check body and near outlets.  DO NOT 
 You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_3/Homework_3.ino)
 
 ### Video
-You can find a demo at: [youtube]()
+You can find a demo at: [youtube](https://www.youtube.com/shorts/MY54exrQ09U)
 </details>
