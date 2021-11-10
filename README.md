@@ -16,9 +16,9 @@ Use a separat potentiometer in controlling each of the color of the RGB led (Red
 
 ### Setup
 
-<img src="Homework_1/RGB1.jpeg" width= 50% height: auto >
+<img src="Homework_1/RGB1.jpeg" width= 40% height: auto >
 
-<img src="Homework_1/RGB2.jpeg" width= 50% height: auto >
+<img src="Homework_1/RGB2.jpeg" width= 40% height: auto >
 
 You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_1/Homework_1.ino)
 
@@ -49,9 +49,9 @@ The system has the following states:
 
 ### Setup
 
-<img src="Homework_2/TrafficLights1.jpeg" width= 50% height: auto >
+<img src="Homework_2/TrafficLights1.jpeg" width= 40% height: auto >
 
-<img src="Homework_2/TrafficLights2.jpeg" width= 50% height: auto >
+<img src="Homework_2/TrafficLights2.jpeg" width= 40% height: auto >
 
 You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_2/Homework_2.ino)
 
@@ -76,9 +76,9 @@ Build a ghost detector. Should detect EMF (check body and near outlets.  DO NOT 
 
 ### Setup
   
-<img src="Homework_3/1.jpeg" width= 50% height: auto >
+<img src="Homework_3/1.jpeg" width= 40% height: auto >
 
-<img src="Homework_3/2.jpeg" width= 50% height: auto >
+<img src="Homework_3/2.jpeg" width= 40% height: auto >
 
 You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_3/Homework_3.ino)
 
