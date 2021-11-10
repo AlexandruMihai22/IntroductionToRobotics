@@ -27,7 +27,6 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
 
  </details>
   
-<br>
 
 ## Homework 2
 
@@ -61,7 +60,6 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
 
  </details>
  
-<br>
 
 ## Homework 3
  
