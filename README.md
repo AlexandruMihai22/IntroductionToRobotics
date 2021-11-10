@@ -54,8 +54,9 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
 
 <br>
 
+## Homework 3
 <details>
-  <summary> <h2> Homework 3 </h2> </summary>
+ <summary>See details</summary>
 
 ### Components
 
