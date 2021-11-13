@@ -85,3 +85,31 @@ You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToR
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/MY54exrQ09U)
 </details>
+
+
+## Homework 4
+ 
+ <details>
+ <summary> See details </summary>
+
+### Components
+
+a  joystick,  a  4  digit  7-segment  display,  a  74hc595  shiftregister, resistors and wires (per logic)
+
+### Technical Task
+
+Using  a  joystick  in  setting  the  values  on  each  digit  of  a  4-digit7-segment display connected to a shift register 74hc595.
+First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4digits; using the other axis does nothing.  A blinking decimal point showsthe current digit position.  When pressing the button (must use interruptfor  maximum  points!),  you  lock  in  on  the  selected  digit  and  enter  thesecond state.  In this state, the decimal point stays always on, no longerblinking and you can no longer use the axis to cycle through the 4 digits.Instead, using the other axis, you can increment on decrement the numberon the current digit.  Pressing the button again returns you to the previousstate.  For bonus, save the last value in eeprom and load it when startingarduino.  Also, keep in mind that when changing the number, you mustincrement it for each joystick movement - it should not work continuoslyincrement if you keep the joystick in one position.
+
+### Setup
+  
+<img src="Homework_4/Homework_4_1.jpeg" width= 50% height: auto >
+
+<img src="Homework_4/Homework_4_2.jpeg" width= 50% height: auto >
+
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_4/Homework_4.ino)
+
+### Video
+You can find a demo at: [youtube]()
+</details>
+
