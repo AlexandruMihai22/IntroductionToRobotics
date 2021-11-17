@@ -98,11 +98,11 @@ a  joystick,  a  4  digit  7-segment  display,  a  74hc595  shiftregister, resis
 
 ### Description
  
-Using  a  joystick  in  setting  the  values  on  each  digit  of  a  4-digit7-segment display connected to a shift register 74hc595. 
+Using  a  joystick  in  setting  the  values  on  each  digit  of  a  4-digit 7-segment display connected to a shift register 74hc595. 
 
 ### Technical Task
  
-First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4digits; using the other axis does nothing.  A blinking decimal point shows the current digit position. When pressing the button (must use interrupt for  maximum  points!),  you  lock  in  on  the  selected  digit  and  enter  the second state.  In this state, the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle through the 4 digits. Instead, using the other axis, you can increment or decrement the number on the current digit. Pressing the button again returns you to the previous state. For bonus, save the last value in eeprom and load it when starting arduino. Also, keep in mind that when changing the number, you must increment it for each joystick movement - it should not work continuosly increment if you keep the joystick in one position.
+First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4-digits; using the other axis does nothing. A blinking decimal point shows the current digit position. When pressing the button (must use interrupt for  maximum  points!),  you  lock  in  on  the  selected  digit  and  enter  the second state.  In this state, the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle through the 4 digits. Instead, using the other axis, you can increment or decrement the number on the current digit. Pressing the button again returns you to the previous state. For bonus, save the last value in eeprom and load it when starting arduino. Also, keep in mind that when changing the number, you must increment it for each joystick movement - it should not work continuosly increment if you keep the joystick in one position.
 
 ### Setup
   
