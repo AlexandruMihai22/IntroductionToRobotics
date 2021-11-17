@@ -113,6 +113,6 @@ First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4digi
 You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_4/Homework_4.ino)
 
 ### Video
-You can find a demo at: [youtube]()
+You can find a demo at: [youtube](https://www.youtube.com/watch?v=V0mh6iswJhY)
 </details>
 
