@@ -106,11 +106,11 @@ First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4digi
 
 ### Setup
   
-<img src="4 digit 7-segment display, shift register and a joystick/4 digit 7-segment display, shift register and a joystick_1.jpeg" width= 50% height: auto >
+<img src="4 digit 7-segment display, shift register and a joystick/img_1.jpeg" width= 50% height: auto >
 
-<img src="4 digit 7-segment display, shift register and a joystick/4 digit 7-segment display, shift register and a joystick_2.jpeg" width= 50% height: auto >
+<img src="4 digit 7-segment display, shift register and a joystick/img_2.jpeg" width= 50% height: auto >
 
-You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Homework_4/Homework_4.ino)
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/4 digit 7-segment display, shift register and a joystick/4 digit 7-segment display, shift register and a joystick.ino)
 
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/watch?v=V0mh6iswJhY)
