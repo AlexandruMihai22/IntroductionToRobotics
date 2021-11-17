@@ -2,7 +2,7 @@
 Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code and image files.
 
 
-## Homework 1
+## Homework #1 - RGB led and Potentiometers
 <details>
  <summary> See details </summary>
  
@@ -28,7 +28,7 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
  </details>
   
 
-## Homework 2
+## Homework #2 - Crosswalk simulator: traffic lights for people and cars
 
  <details>
  <summary> See details </summary>
@@ -61,7 +61,7 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
  </details>
  
 
-## Homework 3
+## Homework #3 - Ghost detector (EMF - electromagnetic field - detector)
  
  <details>
  <summary> See details </summary>
@@ -87,7 +87,7 @@ You can find a demo at: [youtube](https://www.youtube.com/shorts/MY54exrQ09U)
 </details>
 
 
-## Homework 4
+## Homework #4 - 4 digit 7-segment display, shift register and a joystick
  
  <details>
  <summary> See details </summary>
