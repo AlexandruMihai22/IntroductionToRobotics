@@ -20,7 +20,7 @@ Use a separat potentiometer in controlling each of the color of the RGB led (Red
 
 <img src="RGB_led_and_Potentiometers/RGB2.jpeg" width= 50% height: auto >
 
-You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/RGB_led_and_Potentiometers/RGB_led_and_Potentiometers.ino)
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/master/RGB_led_and_Potentiometers/RGB_led_and_Potentiometers.ino)
 
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/NxNfzfaFPoc)
@@ -53,7 +53,7 @@ The system has the following states:
 
 <img src="Crosswalk_simulator/TrafficLights2.jpeg" width= 50% height: auto >
 
-You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/Crosswalk_simulator/Crosswalk_simulator.ino)
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/master/Crosswalk_simulator/Crosswalk_simulator.ino)
 
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/SMoA_wwZwWM)
@@ -80,7 +80,7 @@ Build a ghost detector. Should detect EMF (check body and near outlets.  DO NOT 
 
 <img src="EMF_detector/EMF2.jpeg" width= 50% height: auto >
 
-You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/EMF_detector/EMF_detector.ino)
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/master/EMF_detector/EMF_detector.ino)
 
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/shorts/MY54exrQ09U)
@@ -110,7 +110,7 @@ First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4-dig
 
 <img src="4 digit 7-segment display, shift register and a joystick/4 digit 7-segment display, shift register and a joystick_2.jpeg" width= 50% height: auto >
 
-You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/main/4%20digit%207-segment%20display%2C%20shift%20register%20and%20a%20joystick/4%20digit%207-segment%20display%2C%20shift%20register%20and%20a%20joystick.ino)
+You can find the code [here](https://github.com/AlexandruMihai22/IntroductionToRobotics/blob/master/4%20digit%207-segment%20display%2C%20shift%20register%20and%20a%20joystick/4%20digit%207-segment%20display%2C%20shift%20register%20and%20a%20joystick.ino)
 
 ### Video
 You can find a demo at: [youtube](https://www.youtube.com/watch?v=V0mh6iswJhY)
